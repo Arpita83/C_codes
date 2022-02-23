@@ -1,0 +1,11 @@
+/* 10. Write a program to compute F(n,r) where
+F(n,r) can be recursively defined as
+F(n,r)= F(n-1, r)+F(n-1, r-1) */
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}
